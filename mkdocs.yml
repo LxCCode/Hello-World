@@ -1,5 +1,6 @@
-site_name: Hello World
+site_name: Hello-World
 nav:
     - index.md
     - about.md
-theme: readthedocs
+theme: 
+  name: material
