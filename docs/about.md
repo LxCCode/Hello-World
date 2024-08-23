@@ -1,1 +1,1 @@
-# This is a Timer
+# This is a Hello-World program
