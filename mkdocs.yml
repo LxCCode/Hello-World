@@ -4,3 +4,8 @@ nav:
     - about.md
 theme: 
   name: material
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
