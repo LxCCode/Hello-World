@@ -1,4 +1,4 @@
-## 提交方法
+# 提交方法
 
 请大家 `fork` 仓库[thuasta/summer-training-2024](https://github.com/thuasta/summer-training-2024)（已 `fork` 的同学可以在仓库上 `Sync fork` ，获取主仓库最新版本）
 
