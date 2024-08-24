@@ -1,8 +1,8 @@
-site_name: Hello-World
+site_name: Assignment2024
 
 nav:
-    - index.md
-    - about.md
+    - Home: index.md
+    - About: about.md
 theme: 
   name: material
 
