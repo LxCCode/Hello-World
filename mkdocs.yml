@@ -1,8 +1,8 @@
 site_name: Assignment2024
 
 nav:
-    - Home: index.md
-    - About: about.md
+    - index.md
+    - about.md
 theme: 
   name: material
 
